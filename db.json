@@ -2,10 +2,19 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "eerste"
     }
+    {
+      "id": 2,
+      "title": "tweedst"
+    }
+    {
+      "id": 1,
+      "title": "en weer de eerste"
+    }
+    
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Blaat"
   }
 }
