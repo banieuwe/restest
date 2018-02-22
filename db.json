@@ -1,11 +1,13 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "inhoud" : {
+    {"id": 1 "tekst": "Lorem ipsum"},
+    {"id": 2 "tekst": "dolor sit amet"},
+    {"id": 3 "tekst": "consectetur adipiscing elit"},
+    {"id": 4 "tekst": "sed do eiusmod"},
+    {"id": 1 "tekst": "tempor incididunt ut labore et dolore magna aliqua"}
+},
+  "tweede" : {
+    {"naam" : "Henk" "commentaar" : "tekst"},
+    {"naam" : "Piet" "commentaar" : "iets anders"}
+}
 }
