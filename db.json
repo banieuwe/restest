@@ -1,20 +1,13 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "eerste"
-    }
-    {
-      "id": 2,
-      "title": "tweedst"
-    }
-    {
-      "id": 1,
-      "title": "en weer de eerste"
-    }
-    
-  ],
-  "profile": {
-    "name": "Blaat"
-  }
+  "inhoud" [
+    {"id": 1 "tekst": "Lorem ipsum"},
+    {"id": 2 "tekst": "dolor sit amet"},
+    {"id": 3 "tekst": "consectetur adipiscing elit"},
+    {"id": 4 "tekst": "sed do eiusmod"},
+    {"id": 1 "tekst": "tempor incididunt ut labore et dolore magna aliqua"}
+  ]
+  "tweede" [
+    {"naam" : "Henk" "commentaar" : "tekst"},
+    {"naam" : "Piet" "commentaar" : "iets anders"}
+   ]
 }
